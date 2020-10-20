@@ -8,7 +8,7 @@ app = Flask(__name__)
 def ac04():
 	proximo = 1
 	anterior = 0
-	limite 1000
+	limite = 1000
 	found = 0
 	resposta = "0,"
 	while (found < limite):
